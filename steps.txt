@@ -1,0 +1,5 @@
+1 - Montar mapeamento
+2 - Verificar se existem arquivos no mapeamento
+3 - Verificar espaço disponivel no mapeamento
+4 - Verificar se existem arquivos no disco de backup
+5 - Mover arquivos para o mapeamento, primeiro os arquivos menores.
